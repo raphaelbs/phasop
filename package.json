@@ -1,0 +1,34 @@
+{
+	"author": {
+		"name": "Raphael Brandão"
+	},
+	"bin": {
+		"phasop": "./phasop.js"
+	},
+	"dependencies": {
+		"commander": "^2.9.0"
+	},
+	"description": "Command line tools for complex numbers (phasor) operations.",
+	"keywords": [
+		"complex numbers",
+		"eletrical",
+		"engineering",
+		"phasor"
+	],
+	"license": "MIT",
+	"maintainers": [
+		{
+			"name": "raphaelbs",
+			"email": "raphael.b.souza@hotmail.com"
+		}
+	],
+	"name": "phasop",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/raphaelbs/phasop.git"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"version": "1.0.9"
+}
