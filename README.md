@@ -26,7 +26,7 @@ Converting Polar phasor to Retangular phasor:
 ```
 
 #### radian
-You can output any of the following [operations](https://www.npmjs.com/package/phasop#operations) in radians instead of the default degrees.
+You can output any of the following [operations](#operations) in radians instead of the default degrees.
 ```shell
 > phasop -r add (4,3i) (3,-4i)
 ```
